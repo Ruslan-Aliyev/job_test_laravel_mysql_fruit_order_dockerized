@@ -27,6 +27,12 @@ Stop: `docker-compose down`
 
 # Usage
 
+website: `localhost:8001`
+
+phpmyadmin: `localhost:8089`
+
+phpmyadmin's credentials: `user` / `user`
+
 ![1](https://github.com/Ruslan-Aliyev/job_testjob_test_laravel_mysql_fruit_order/assets/6761422/e8c65b9a-b184-4713-b88c-3d6631f35e5b)
 
 ![2](https://github.com/Ruslan-Aliyev/job_testjob_test_laravel_mysql_fruit_order/assets/6761422/481eb5a4-3c14-4a0a-97a7-4b64e0ebf286)
